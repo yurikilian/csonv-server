@@ -1,0 +1,3 @@
+id;ddd;telefone;ramal;tipo;principal;cliente
+string;integer;integer;integer;string;boolean;clientes:1
+1;;;;;;33406066040664064

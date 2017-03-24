@@ -1,0 +1,7 @@
+id;nome;enderecos;emails
+integer;string;enderecos:n:cliente;emails:n:cliente
+1;Cliente 1;
+2;Cliente 2;
+3;Cliente 3;
+4;Cliente 4;
+5;Cliente 5;

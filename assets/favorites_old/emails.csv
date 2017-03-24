@@ -1,0 +1,6 @@
+id;email;cliente
+integer;string;clientes:1
+1;teste@teste.com.br;1
+2;teste@teste.com.br;2
+3;teste@teste.com.br;2
+4;teste@teste.com.br;3

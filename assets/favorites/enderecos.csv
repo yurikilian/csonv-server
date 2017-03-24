@@ -1,0 +1,3 @@
+id;cep;codigoDne;complemento;logradouro;bairro;cidade;numero;tipo;tipoLogradouro;uf;principal;cliente
+string;integer;string;string;string;string;string;string;string;string;string;boolean;clientes:1
+1;;;;;;;;;;1;1;33406066040664064

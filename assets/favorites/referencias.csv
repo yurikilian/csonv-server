@@ -1,0 +1,3 @@
+id;nome;endereco;email;ddd;telefone;observacao;tipo;dataNascimento;cliente
+string;string;string;string;integer;integer;string;string;date;clientes:1
+1;;;;;;;;;33406066040664064
